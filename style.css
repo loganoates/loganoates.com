@@ -14,8 +14,9 @@ img {
 
 .profile-picture {
 	display: block;
-	margin: 3% auto auto auto;
-	max-width: 200px;
+	margin: auto;
+	max-width: 230px;
+	max-height: 230px;
 }
 
 h1 {
